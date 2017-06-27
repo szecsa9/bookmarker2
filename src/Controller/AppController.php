@@ -96,4 +96,8 @@ class AppController extends Controller
     public function valami() {
 
     }
+
+    public function halleluja() {
+
+    }
 }
