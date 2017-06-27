@@ -100,4 +100,8 @@ class AppController extends Controller
     public function halleluja() {
 
     }
+
+    public function aztamindenit() {
+
+    }
 }
