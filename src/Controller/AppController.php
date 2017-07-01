@@ -104,4 +104,10 @@ class AppController extends Controller
     public function aztamindenit() {
 
     }
+
+    public function uj() {
+
+    }
+
+
 }
