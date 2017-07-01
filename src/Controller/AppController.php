@@ -133,4 +133,8 @@ class AppController extends Controller
 
     }
 
+    public function uj8() {
+
+    }
+
 }
