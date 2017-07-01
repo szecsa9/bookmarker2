@@ -23,7 +23,7 @@ class BookmarksController extends AppController
         $this->paginate = [
             'contain' => ['Users']
         ];
-        $bookmarks = $this->paginate($this->Bookmarks);
+        $bookmarks = $this->paginate($this->Bookmarks); // A bookmarks tábla adatait veszi
 
         $this->set(compact('bookmarks'));
         $this->set('_serialize', ['bookmarks']);
