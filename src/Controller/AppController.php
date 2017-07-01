@@ -92,49 +92,4 @@ class AppController extends Controller
     {
         return false;
     }
-
-    public function valami() {
-
-    }
-
-    public function halleluja() {
-
-    }
-
-    public function aztamindenit() {
-
-    }
-
-    public function uj() {
-
-    }
-
-    public function uj2() {
-
-    }
-
-    public function uj3() {
-
-    }
-
-    public function uj4() {
-
-    }
-
-    public function uj5() {
-
-    }
-
-    public function uj6() {
-
-    }
-
-    public function uj7() {
-
-    }
-
-    public function uj8() {
-
-    }
-
 }
