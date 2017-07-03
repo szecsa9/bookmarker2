@@ -96,4 +96,16 @@ class AppController extends Controller
     public function uj3() {
 
     }
+
+    public function uj2() {
+
+    }
+
+    public function uj4() {
+
+    }
+
+    public function uj5() {
+
+    }
 }
