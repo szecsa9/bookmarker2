@@ -92,4 +92,12 @@ class AppController extends Controller
     {
         return false;
     }
+
+    public function uj1() {
+
+    }
+
+    public function uj2() {
+
+    }
 }
