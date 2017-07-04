@@ -93,7 +93,7 @@ class AppController extends Controller
         return false;
     }
 
-    public function uj3() {
+    public function uj1() {
 
     }
 
@@ -105,7 +105,7 @@ class AppController extends Controller
 
     }
 
-    public function uj5() {
+    public function uj6() {
 
     }
 }
