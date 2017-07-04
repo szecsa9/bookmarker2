@@ -107,4 +107,6 @@ class BookmarksTable extends Table
 
         return $bookmarks->group(['Bookmarks.id']);
     }
+
+
 }
