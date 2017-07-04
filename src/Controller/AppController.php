@@ -93,4 +93,8 @@ class AppController extends Controller
         return false;
     }
 
+    public function uj1() {
+        
+    }
+
 }
